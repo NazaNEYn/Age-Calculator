@@ -5,6 +5,7 @@ const age = []
 
 for (let i = 0; i < years.length; i++) {
 
+    // years[i] = years at the current loop position
     age.push(2022 - years[i])
 }
 
